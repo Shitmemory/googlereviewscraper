@@ -2,7 +2,7 @@ import requests
 import csv
 import time
 
-API_KEY = 'AIzaSyCWfy7YrHrD-7APFt8tCTFKUDjobrTdvRM'  # Replace with your real Google Places API key
+API_KEY = ''  # Replace with your real Google Places API key
 LOCATION = '28.6139,77.2090'  # Example: New Delhi
 RADIUS = 10000  # in meters
 TYPE = 'real_estate_agency'
